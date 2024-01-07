@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new Code and Projects
 - 🌱 I’m currently learning in Python, Java, HTML
 - 💞️ I’m looking to collaborate on anything to learn and find a new path
-- 📫 How to reach me new path ways into coding
+- 📫 How to reach me new pathways into coding
 
 <!---
 LeSpookyFubar/LeSpookyFubar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
