@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LeSpookyFubar
-- 👀 I’m interested in learning new Code and Projects
-- 🌱 I’m currently learning in Python, Java, HTML
-- 💞️ I’m looking to collaborate on anything to learn and find a new path
-- 📫 How to reach me new pathways into coding
+- 👀 Making Projects and Repositories 
+- 🌱 I’m learning Python, Linux, Microsoft Azure, and Cloud data.
 
 <!---
 LeSpookyFubar/LeSpookyFubar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
